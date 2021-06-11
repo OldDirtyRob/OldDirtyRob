@@ -1,6 +1,6 @@
 - Hello, Im OldDirtyRob
 - Books contain knowledge, knowledge is power, power corrupts, corruption leads to crime, crime doesnt pay, read books = go broke
-false logic is fun! ;)
+- false logic probably isn't so funny in coding...
 - 👀 I’m interested in python, azure, linux 
 
 - 📫 How to reach me machevellian@gmail.com
